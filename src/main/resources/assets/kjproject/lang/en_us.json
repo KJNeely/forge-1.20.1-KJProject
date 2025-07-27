@@ -1,0 +1,165 @@
+{
+  "item.kjproject.test_item": "Test Item",
+
+  "block.kjproject.test_block": "Test Block",
+
+  "block.kjproject.wallpaper_flowery_a": "Flowery Wallpaper A",
+  "block.kjproject.wallpaper_flowery_b": "Flowery Wallpaper B",
+  "block.kjproject.wallpaper_flowery_c": "Flowery Wallpaper C",
+  "block.kjproject.wallpaper_flowery_d": "Flowery Wallpaper D",
+  "block.kjproject.wallpaper_flowery_e": "Flowery Wallpaper E",
+  "block.kjproject.wallpaper_flowery_f": "Flowery Wallpaper F",
+  "block.kjproject.wallpaper_flowery_g": "Flowery Wallpaper G",
+  "block.kjproject.wallpaper_flowery_h": "Flowery Wallpaper H",
+
+  "block.kjproject.wallpaper_mushroom_a": "Mushroom Wallpaper A",
+
+  "block.kjproject.panel_black_block": "Black Panel",
+  "block.kjproject.panel_black_bottom": "Black Panel (Bottom)",
+  "block.kjproject.panel_black_middle": "Black Panel (Middle)",
+  "block.kjproject.panel_black_top": "Black Panel (Top)",
+
+  "block.kjproject.panel_blue_block": "Blue Panel",
+  "block.kjproject.panel_blue_bottom": "Blue Panel (Bottom)",
+  "block.kjproject.panel_blue_middle": "Blue Panel (Middle)",
+  "block.kjproject.panel_blue_top": "Blue Panel (Top)",
+
+  "block.kjproject.panel_brown_block": "Brown Panel",
+  "block.kjproject.panel_brown_bottom": "Brown Panel (Bottom)",
+  "block.kjproject.panel_brown_middle": "Brown Panel (Middle)",
+  "block.kjproject.panel_brown_top": "Brown Panel (Top)",
+
+  "block.kjproject.panel_cyan_block": "Cyan Panel",
+  "block.kjproject.panel_cyan_bottom": "Cyan Panel (Bottom)",
+  "block.kjproject.panel_cyan_middle": "Cyan Panel (Middle)",
+  "block.kjproject.panel_cyan_top": "Cyan Panel (Top)",
+
+  "block.kjproject.panel_green_block": "Green Panel",
+  "block.kjproject.panel_green_bottom": "Green Panel (Bottom)",
+  "block.kjproject.panel_green_middle": "Green Panel (Middle)",
+  "block.kjproject.panel_green_top": "Green Panel (Top)",
+
+  "block.kjproject.panel_light_blue_block": "Light Blue Panel",
+  "block.kjproject.panel_light_blue_bottom": "Light Blue Panel (Bottom)",
+  "block.kjproject.panel_light_blue_middle": "Light Blue Panel (Middle)",
+  "block.kjproject.panel_light_blue_top": "Light Blue Panel (Top)",
+
+  "block.kjproject.panel_light_gray_block": "Light Gray Panel",
+  "block.kjproject.panel_light_gray_bottom": "Light Gray Panel (Bottom)",
+  "block.kjproject.panel_light_gray_middle": "Light Gray Panel (Middle)",
+  "block.kjproject.panel_light_gray_top": "Light Gray Panel (Top)",
+
+  "block.kjproject.panel_lime_block": "Lime Panel",
+  "block.kjproject.panel_lime_bottom": "Lime Panel (Bottom)",
+  "block.kjproject.panel_lime_middle": "Lime Panel (Middle)",
+  "block.kjproject.panel_lime_top": "Lime Panel (Top)",
+
+  "block.kjproject.panel_magenta_block": "Magenta Panel",
+  "block.kjproject.panel_magenta_bottom": "Magenta Panel (Bottom)",
+  "block.kjproject.panel_magenta_middle": "Magenta Panel (Middle)",
+  "block.kjproject.panel_magenta_top": "Magenta Panel (Top)",
+
+  "block.kjproject.panel_orange_block": "Orange Panel",
+  "block.kjproject.panel_orange_bottom": "Orange Panel (Bottom)",
+  "block.kjproject.panel_orange_middle": "Orange Panel (Middle)",
+  "block.kjproject.panel_orange_top": "Orange Panel (Top)",
+
+  "block.kjproject.panel_pink_block": "Pink Panel",
+  "block.kjproject.panel_pink_bottom": "Pink Panel (Bottom)",
+  "block.kjproject.panel_pink_middle": "Pink Panel (Middle)",
+  "block.kjproject.panel_pink_top": "Pink Panel (Top)",
+
+  "block.kjproject.panel_purple_block": "Purple Panel",
+  "block.kjproject.panel_purple_bottom": "Purple Panel (Bottom)",
+  "block.kjproject.panel_purple_middle": "Purple Panel (Middle)",
+  "block.kjproject.panel_purple_top": "Purple Panel (Top)",
+
+  "block.kjproject.panel_red_block": "Red Panel",
+  "block.kjproject.panel_red_bottom": "Red Panel (Bottom)",
+  "block.kjproject.panel_red_middle": "Red Panel (Middle)",
+  "block.kjproject.panel_red_top": "Red Panel (Top)",
+
+  "block.kjproject.panel_white_block": "White Panel",
+  "block.kjproject.panel_white_bottom": "White Panel (Bottom)",
+  "block.kjproject.panel_white_middle": "White Panel (Middle)",
+  "block.kjproject.panel_white_top": "White Panel (Top)",
+
+  "block.kjproject.panel_yellow_block": "Yellow Panel",
+  "block.kjproject.panel_yellow_bottom": "Yellow Panel (Bottom)",
+  "block.kjproject.panel_yellow_middle": "Yellow Panel (Middle)",
+  "block.kjproject.panel_yellow_top": "Yellow Panel (Top)",
+
+  "block.kjproject.panel_birch_block": "Birch Panel",
+  "block.kjproject.panel_birch_bottom": "Birch Panel (Bottom)",
+  "block.kjproject.panel_birch_middle": "Birch Panel (Middle)",
+  "block.kjproject.panel_birch_top": "Birch Panel (Top)",
+
+  "block.kjproject.panel_dark_oak_block": "Dark Oak Panel",
+  "block.kjproject.panel_dark_oak_bottom": "Dark Oak Panel (Bottom)",
+  "block.kjproject.panel_dark_oak_middle": "Dark Oak Panel (Middle)",
+  "block.kjproject.panel_dark_oak_top": "Dark Oak Panel (Top)",
+
+  "block.kjproject.panel_spruce_block": "Spruce Panel",
+  "block.kjproject.panel_spruce_bottom": "Spruce Panel (Bottom)",
+  "block.kjproject.panel_spruce_middle": "Spruce Panel (Middle)",
+  "block.kjproject.panel_spruce_top": "Spruce Panel (Top)",
+
+  "block.kjproject.panel_bamboo_block": "Bamboo Panel",
+  "block.kjproject.panel_bamboo_bottom": "Bamboo Panel (Bottom)",
+  "block.kjproject.panel_bamboo_middle": "Bamboo Panel (Middle)",
+  "block.kjproject.panel_bamboo_top": "Bamboo Panel (Top)",
+
+  "block.kjproject.panel_oak_block": "Oak Panel",
+  "block.kjproject.panel_oak_bottom": "Oak Panel (Bottom)",
+  "block.kjproject.panel_oak_middle": "Oak Panel (Middle)",
+  "block.kjproject.panel_oak_top": "Oak Panel (Top)",
+
+  "block.kjproject.boards_acacia": "Acacia Boards",
+  "block.kjproject.boards_birch": "Birch Boards",
+  "block.kjproject.boards_cherry": "Cherry Boards",
+  "block.kjproject.boards_crimson": "Crimson Boards",
+  "block.kjproject.boards_dark_oak": "Dark Oak Boards",
+  "block.kjproject.boards_jungle": "Jungle Boards",
+  "block.kjproject.boards_mangrove": "Mangrove Boards",
+  "block.kjproject.boards_oak": "Oak Boards",
+  "block.kjproject.boards_spruce": "Spruce Boards",
+  "block.kjproject.boards_warped": "Warped Boards",
+
+  "block.kjproject.side_boards_acacia": "Acacia Side Boards",
+  "block.kjproject.side_boards_birch": "Birch Side Boards",
+  "block.kjproject.side_boards_cherry": "Cherry Side Boards",
+  "block.kjproject.side_boards_crimson": "Crimson Side Boards",
+  "block.kjproject.side_boards_dark_oak": "Dark Oak Side Boards",
+  "block.kjproject.side_boards_jungle": "Jungle Side Boards",
+  "block.kjproject.side_boards_mangrove": "Mangrove Side Boards",
+  "block.kjproject.side_boards_oak": "Oak Side Boards",
+  "block.kjproject.side_boards_spruce": "Spruce Side Boards",
+  "block.kjproject.side_boards_warped": "Warped Side Boards",
+
+  "block.kjproject.kitchen_counter_acacia": "Acacia Kitchen Counter",
+  "block.kjproject.kitchen_counter_birch": "Birch Kitchen Counter",
+  "block.kjproject.kitchen_counter_cherry": "Cherry Kitchen Counter",
+  "block.kjproject.kitchen_counter_crimson": "Crimson Kitchen Counter",
+  "block.kjproject.kitchen_counter_dark_oak": "Dark Oak Kitchen Counter",
+  "block.kjproject.kitchen_counter_jungle": "Jungle Kitchen Counter",
+  "block.kjproject.kitchen_counter_mangrove": "Mangrove Kitchen Counter",
+  "block.kjproject.kitchen_counter_oak": "Oak Kitchen Counter",
+  "block.kjproject.kitchen_counter_spruce": "Spruce Kitchen Counter",
+  "block.kjproject.kitchen_counter_warped": "Warped Kitchen Counter",
+
+  "block.kjproject.kitchen_counter_acacia_corner": "Acacia Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_birch_corner": "Birch Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_cherry_corner": "Cherry Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_crimson_corner": "Crimson Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_dark_oak_corner": "Dark Oak Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_jungle_corner": "Jungle Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_mangrove_corner": "Mangrove Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_oak_corner": "Oak Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_spruce_corner": "Spruce Kitchen Counter Corner",
+  "block.kjproject.kitchen_counter_warped_corner": "Warped Kitchen Counter Corner",
+
+
+  "block.kjproject.counter_test": "Kitchen Counter",
+
+  "creativetab.tutorial_tab": "KJ's Project Tab"
+}

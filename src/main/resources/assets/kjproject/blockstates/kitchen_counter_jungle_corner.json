@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "kjproject:block/kitchen_counter_jungle_corner" },
+		"facing=east": { "model": "kjproject:block/kitchen_counter_jungle_corner", "y": 90 },
+		"facing=south": { "model": "kjproject:block/kitchen_counter_jungle_corner", "y": 180 },
+		"facing=west": { "model": "kjproject:block/kitchen_counter_jungle_corner", "y": 270 }
+	}
+}
